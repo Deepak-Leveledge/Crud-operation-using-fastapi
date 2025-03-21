@@ -46,6 +46,12 @@ This project is built using **FastAPI**, a modern and fast web framework for Pyt
 - Creating a `.gitignore` file to avoid uploading unnecessary files.
 - Managing the project repository on **GitHub**.
 
----
+### ✅ **Live Link Deployed**
+https://crud-operation-using-fastapi-1.onrender.com/
 
+### ✅ **To Get the All Users **
+(https://crud-operation-using-fastapi-1.onrender.com/users/)
+
+### ✅ **To Get the Users with ID **
+(https://crud-operation-using-fastapi-1.onrender.com/users/{user_id})
 
